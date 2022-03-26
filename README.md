@@ -1,0 +1,2 @@
+# freight-stats
+Sample text.
