@@ -11,10 +11,10 @@ const HOST: string = "http://localhost:8080"
 enum Table {
   Shipment = "shipment",
   Commodity = "commodity",
-  TransportMethod = "transport_method",
+  TransportMethod = "transportMethod",
   State = "state",
   Country = "country",
-  CovidData = "covid_case"
+  CovidData = "covidData"
 }
 
 enum ShipmentColumn {
